@@ -1,0 +1,28 @@
+{
+  "name": "rainbow-log",
+  "version": "1.0.0",
+  "description": "Console.log with rainbow colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bqardi/rainbow-log.git"
+  },
+  "keywords": [
+    "console",
+    "rainbow",
+    "log",
+    "color",
+    "colour",
+    "colors",
+    "colours"
+  ],
+  "author": "Sune Seifert <bqardi@msn.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bqardi/rainbow-log/issues"
+  },
+  "homepage": "https://github.com/bqardi/rainbow-log#readme"
+}
